@@ -1,3 +1,4 @@
+```
 [   59.027390] ad9832: module_layout: kernel tainted.
 [   59.028895] Disabling lock debugging due to kernel taint
 [   59.030666] ad9832: loading out-of-tree module taints kernel.
@@ -9,3 +10,4 @@
 [   59.039697] ad9832: Unknown symbol __spi_register_driver (err -2)
 [   59.040760] ad9832: Unknown symbol iio_read_const_attr (err -2)
 [   59.041459] ad9832: Unknown symbol mutex_init_generic (err -2)
+```
