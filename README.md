@@ -1,13 +1,16 @@
+```regex
+            .--.            _ _   _           _                            __    _     _  ___
+           |o_o |      __ _(_) |_| |__  _   _| |__   ___ ___  _ __ ___    / /__ (_) __| |( _ )
+           |:_/ |     / _` | | __| '_ \| | | | '_ \ / __/ _ \| '_ ` _ \  / / __|| |/ _` |/ _ \
+          //   \ \   | (_| | | |_| | | | |_| | |_) | (_| (_) | | | | | |/ / (__ | | (_| | (_) |
+         (|     | )   \__, |_|\__|_| |_|\__,_|_.__(_)___\___/|_| |_| |_/_/ \___|/ |\__,_|\___/
+        /'\_   _/`\   |___/                                                   |__/
+        \___)=(___/
 ```
-[   59.027390] ad9832: module_layout: kernel tainted.
-[   59.028895] Disabling lock debugging due to kernel taint
-[   59.030666] ad9832: loading out-of-tree module taints kernel.
-[   59.033006] ad9832: Unknown symbol spi_get_device_id (err -2)
-[   59.035463] ad9832: Unknown symbol __ref_stack_chk_guard (err -2)
-[   59.036684] ad9832: Unknown symbol spi_sync (err -2)
-[   59.037519] ad9832: Unknown symbol __devm_iio_device_register (err -2)
-[   59.038357] ad9832: Unknown symbol devm_iio_device_alloc (err -2)
-[   59.039697] ad9832: Unknown symbol __spi_register_driver (err -2)
-[   59.040760] ad9832: Unknown symbol iio_read_const_attr (err -2)
-[   59.041459] ad9832: Unknown symbol mutex_init_generic (err -2)
-```
+
+.NET dev by day, Linux kernel and embedded dev by night.
+
+Things I maintain in the kernel:
+- [Vishay VEML3328 RGBCIR light sensor](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/drivers/iio/light/veml3328.c)
+
+See my kernel commits in mainline [here](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Joshua+Crofts)!
