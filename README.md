@@ -7,9 +7,6 @@
  /'\_   _/`\   |___/                                                   |__/
  \___)=(___/
 ```
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Drepo%3Atorvalds%2Flinux%2B%2522Signed-off-by%3A%2520Joshua%2520Crofts%2522&query=%24.total_count&logo=linux&label=Signed-off-by)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Drepo%3Atorvalds%2Flinux%2B%2522Reviewed-by%3A%2520Joshua%2520Crofts%2522&query=%24.total_count&logo=linux&label=Reviewed-by)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Drepo%3Atorvalds%2Flinux%2B%2522Suggested-by%3A%2520Joshua%2520Crofts%2522&query=%24.total_count&logo=linux&label=Suggested-by)
 
 .NET dev by day, Linux kernel and embedded dev by night.
 
